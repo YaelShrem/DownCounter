@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: rgb(139, 142, 168);
     background-repeat: no-repeat;
     background-size: 10%;
     background-size: cover;
@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-    color:lightpink;
+    color:rgb(255, 255, 255);
     text-align: center;
 }
 

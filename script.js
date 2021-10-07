@@ -3,7 +3,7 @@ const hoursEl = document.getElementById("hours");
 const minsEl = document.getElementById("mins");
 const secondsEl = document.getElementById("seconds");
 
-const target = "17 Oct 2020";
+const target = "31 Dec 2021";
 
 function countdown() {
     const targetDate = new Date(target);
